@@ -1,1 +1,1 @@
-# Scalar-Pipelined_processor
+# Scalar Pipelined Processor
